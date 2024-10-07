@@ -1,16 +1,19 @@
->[!Warning] Please read
->Mashriq is a pretend company invented by me, it is not real, and only exists for the purpose of giving this project more personality. I am not endorsed by, nor do I have any connection to Mashreq
+> [!IMPORTANT]
+> Mashriq is a pretend company invented by me, it is not real, and only exists for the purpose of giving this project more personality. I am not endorsed by, nor do I have any connection to Mashreq
 >
->This project is not a real bank management system, it is merely a simulator made as an assignment for one of my classes. Thank you for stopping by.
+> This project is not a real bank management system, it is merely a simulator made as an assignment for one of my classes. Thank you for stopping by.
 
-> [!Note] Current version: beta-0.3 
+
+> [!NOTE]
+> Current version: beta-0.3 
 > Regarding updates: There will be none. Thank you
 
 ***
-![[logo.png]]
+![Mashriq logo](https://github.com/FaresNawar/bank-management-system/blob/main/logo.png)
 ***
 # About Mashriq
 Mashriq Bank Management Solutions (invented by me) provides secure, high quality, excellent smart solutions for bank owners across the globe.
+
 Here at Mashriq, we pride ourselves in the smoothness and ease-of-use of our applications.
 
 # About this software
@@ -26,12 +29,14 @@ Our software offers a variety of features to make banking easier for all parties
 ***
 # About this project
 At it's core, this project is just a simulator for a bank management system made with python and tkinter.
+
 It took about a week to complete, start to finish, and was an assignment for M.I.C.A.
 
 # About the author
 Hi! My name is Fares Mostafa. I like to develop software and projects like this, whether it's for education or fun.
 
 # Contact
-*To contact me directly, please feel free to email me at:
+*To contact me directly, please feel free to email me at:*
 faresmostafanawar@gmail.com
+
 *Or check out my Carrd [**here**](https://faresmostafa.carrd.co/#)*
