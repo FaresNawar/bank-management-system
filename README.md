@@ -1,11 +1,17 @@
+> [!CAUTION]
+> This project is not and can not be used as a real bank management system, it is merely a simulator made as an assignment for one of my classes.
+
 > [!IMPORTANT]
 > Mashriq is a pretend company invented by me, it is not real, and only exists for the purpose of giving this project more personality. I am not endorsed by, nor do I have any connection to Mashreq
->
-> This project is not a real bank management system, it is merely a simulator made as an assignment for one of my classes. Thank you for stopping by.
 
+> [!TIP]
+> To run the standalone program, download the dist folder and run one of the `.EXE` files.
+> 
+> Debug mode opens a console window in the background for tracing errors.
 
 > [!NOTE]
 > Current version: beta-0.3 
+>
 > Regarding updates: There will be none. Thank you
 
 ***
